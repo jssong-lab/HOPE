@@ -1,0 +1,32 @@
+=============
+Release Notes
+=============
+
+Theano 1.0.5 (27th of July 2020)
+================================
+
+This is a maintenance release of Theano, version ``1.0.5``, with no
+new features, but some deprecation fixes.
+
+We recommend that everybody update to this version.
+
+Highlights (since 1.0.4):
+
+ - Theano is now compatible with Python 3.9
+ - Fixed many deprecation warnings
+
+A total of 13 people contributed to this release since ``1.0.4``:
+
+ - 1fish2
+ - Frederic Bastien
+ - Rebecca Palmer
+ - Miro Hrončok
+ - Dan Foreman-Mackey
+ - Adrian Seyboldt
+ - abergeron
+ - Tim Gates
+ - Tim Odonnell
+ - Robert P. Goldman
+ - Duc Nguyen
+ - Igor Varfolomeev
+ - Thomas Wiecki
