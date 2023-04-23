@@ -54,7 +54,7 @@ if __name__ == '__main__':
     max_iter = 2_000_001
 
     # load model from hdf5 file e.g.
-    model_file = "/home/groups/song/songlab2/dnewton2/FinalSim3/model/model.hdf5"
+    model_file = "./trained_DNN_model.hdf5"
 
     # strip out the two fixed 'GG' since they shouldn't ever be changed
     # input sequence e.g. GGTCGGTATGGCCGTTACTGATAATGGTGGAGTACGCAATTCCCGTC
